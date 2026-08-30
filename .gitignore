@@ -136,6 +136,7 @@ celerybeat.pid
 *.aof
 *.pid
 
+.ipynb_checkpoints/
 # RabbitMQ
 mnesia/
 rabbitmq/
