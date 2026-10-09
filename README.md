@@ -76,6 +76,3 @@ Load the saved model from model/ to generate predictions on unseen property data
 
 👤 Author
 Yash Pawar – @yashpawar-99
-
-
-modern collage
